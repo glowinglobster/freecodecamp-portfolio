@@ -1,0 +1,56 @@
+body {
+    background-color: #5CDB95;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container {
+    background-color: #f6f6f6;
+}
+
+#navbarLogo, .nav-link {
+    color: #05386B !important;
+}
+
+.nav-link.active {
+    color:  #8EE4AF !important;
+}
+
+#about {
+    background-color: #8EE4AF
+}
+
+#portfolio {
+    padding-top: 40px;
+    background-color: #379683;
+}
+
+#contact {
+    background-color: #8EE4AF
+}
+
+#mailIcon {
+    font-size: 200px;
+    color: #379683;
+}
+
+#navbar {
+    background-color: #EDF5E1;
+}
+
+.portfolio-card {
+    background-color: #EDF5E1;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #05386B;
+    font-family: 'Oswald', sans-serif;
+}
+
+#portfolio-heading {
+    color: #5CDB95;
+}
+
+.footer {
+    background-color: #EDF5E1;
+    font-size: 0.75em;
+}
